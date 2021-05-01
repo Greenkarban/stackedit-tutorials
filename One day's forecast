@@ -1,0 +1,10 @@
+# One day's forecast.
+
+|Element| Description | Type | Notes|
+|-----|-----|-----|------| 
+|date| Today's date| string| |
+|description| the weather description| string |"description" can have these values: "sunny", "overcast", "partly cloudy", "raining", and "snowing" |
+|maxTemp| the maximum temperature of the day| string | "maxTemp" and "minTemp" are in degrees Celsius|
+|minTemp| the minimum temperature of the day| string |"maxTemp" and "minTemp" are in degrees Celsius |
+|windspeed| the windspeed of the day| string | "windSpeed" is in kilometers per hour|
+|danger| if the weather is dangerous to go outside| string | |
